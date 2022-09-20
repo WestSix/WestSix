@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--깃헙 레포 사용 언어 수-->
-<img src="https://img.shields.io/github/languages/count/WestSix/">
+<img src="https://img.shields.io/github/languages/count/WestSix/HTML">
 <!--깃헙 레포 최다 빈도 언어-->
 <img src="https://img.shields.io/github/languages/top/WestSix/">
 <!--깃헙 레포 코드 용량-->
